@@ -11,7 +11,11 @@
 # Instalar en Debian, Ubuntu o deribados
 #     apt install acpi awk
 #
-# Para usar descargar este archivo y ubicarlo en /srv/batery-mon.sh 
+# Para usar descargar este archivo y ubicarlo en /srv/batery-mon.sh
+#   curl https://raw.githubusercontent.com/eidyev/scripts/main/batery-mon.sh -o /srv/batery-mon.sh
+#  ó
+#   wget https://raw.githubusercontent.com/eidyev/scripts/main/batery-mon.sh -o /srv/batery-mon.sh
+#
 # Darle permisos de ejecución  
 #     chmod +x batery-mon.sh
 #
