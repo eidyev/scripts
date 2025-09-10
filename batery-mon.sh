@@ -1,13 +1,13 @@
 #!/bin/bash
 #
 #############################################################################################
-# Monitor de energía para apagado seguro, para laptops o servidores que usen baterias 
-# y la información sea gestionada por APCI
+# Monitor de energía para apagado seguro, para laptops o servidores que usen baterias integradas
+# y la información sea gestionada por ACPI
 #
 # Programador: Eidy Estupiñan Varona <eidyev@gmail.com>
 # MIT License
 #
-# Requerimientos de software: APCI , AWK
+# Requerimientos de software: ACPI , AWK
 # Instalar en Debian, Ubuntu o deribados
 #     apt install acpi awk
 #
